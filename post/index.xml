@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://lijiangriver.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Dec 2022 00:20:18 +0800</lastBuildDate><atom:link href="https://lijiangriver.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://lijiangriver.github.io/post/blog/</link>
+      <pubDate>Wed, 14 Dec 2022 00:20:18 +0800</pubDate>
+      
+      <guid>https://lijiangriver.github.io/post/blog/</guid>
+      <description>五、感想心得 这个大作业里的很多东西都是课堂上没有教的，这意味着完成这次作业非常需要我们有过硬的自学能力，或者是人脉资源。我两者都有一点，我能在网上找到一些教程，平时和我比较要好的同学也会教我怎么做。 这个实验我一开始是用openeuler做的，做到后面就发现很困难，尤其在网页显示界面那里，没有图形化界面。所以我后来转到ubantu来做了，结果发现ubantu上下载的hugo有严重的版本问题，而后又转到了kali系统。还有就是，即便是有教程，也不是能完全照做的，要根据操作系统的差异、账号信息的差异来调整命令的输入。我经常犯的一个错误就是：输入命令行的时候，总是忘记cd进该进的地方。 Git和github我以前就有所耳闻，但不大清楚hugo是什么。Hugo 是一个用 Golang 写的静态网站生成器，非常简单、高效，而且易于扩展。</description>
+    </item>
+    
+  </channel>
+</rss>
